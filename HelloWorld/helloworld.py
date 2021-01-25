@@ -1,0 +1,7 @@
+print('Hello, World!')
+print(round(1.522))
+print(1 + 2)
+print(7 * 6)
+print()
+print("the end", "or is it?", "keep watching to learn more about Python", 3)
+print('My hovercraft is full of eels')
