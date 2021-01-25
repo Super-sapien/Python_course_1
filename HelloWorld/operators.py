@@ -27,4 +27,3 @@ print(a / (b * a) / b)
 # order of priority - division/multiplication have equal precedence, same as addition
 # BEDMAS / PEDMAS - brackets, exponents, division/multiplication, addition/subtraction
 # In expression that mixes operations with equal precedence, they're evaluated from left to right
-
